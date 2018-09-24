@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 page d'acceuil 1
+=======
+page d'acceuil 2
+>>>>>>> feature-catalog
 modification du fichier
 insertion d'une barre de navigation
+modification en cours
