@@ -1,3 +1,3 @@
-page d'acceuil
+page d'acceuil 1
 modification du fichier
 insertion d'une barre de navigation
